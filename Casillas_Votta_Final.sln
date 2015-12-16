@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casillas_Votta_Final", "Casillas_Final\Casillas_Final\Casillas_Votta_Final.csproj", "{ECAA7B5B-2944-4D23-B439-D798CF5E0F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casillas_Votta_FinalContent", "Casillas_Final\Casillas_FinalContent\Casillas_Votta_FinalContent.contentproj", "{75363D8D-FF1E-4D12-A973-3AB75AEEEE2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAA7B5B-2944-4D23-B439-D798CF5E0F38}.Debug|x86.ActiveCfg = Debug|x86
+		{ECAA7B5B-2944-4D23-B439-D798CF5E0F38}.Debug|x86.Build.0 = Debug|x86
+		{ECAA7B5B-2944-4D23-B439-D798CF5E0F38}.Release|x86.ActiveCfg = Release|x86
+		{ECAA7B5B-2944-4D23-B439-D798CF5E0F38}.Release|x86.Build.0 = Release|x86
+		{75363D8D-FF1E-4D12-A973-3AB75AEEEE2F}.Debug|x86.ActiveCfg = Debug|x86
+		{75363D8D-FF1E-4D12-A973-3AB75AEEEE2F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
